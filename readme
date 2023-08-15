@@ -1,0 +1,38 @@
+# Pokémon TCG Card Searching App
+
+This is a simple web application that allows users to search for Pokémon Trading Card Game (TCG) cards by their name. The app fetches card data from the Pokémon TCG API and displays the card name and an image of the first matching card found.
+
+## Features
+
+- Search for Pokémon TCG cards by name.
+- Display the card name and an image of the first matching card.
+- Responsive and user-friendly design.
+
+## Demo
+
+You can see a live demo of the app here: [Link to Live Demo](#)
+
+## Getting Started
+
+To run the app locally, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in a web browser.
+
+## Usage
+
+1. Enter the name of a Pokémon TCG card in the input field.
+2. Click the "Search" button.
+3. The app will fetch card data from the API and display the card name and an image of the first matching card.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Contributions
+
+Contributions are welcome! If you find any issues or would like to add new features, feel free to open a pull request.
+
+---
